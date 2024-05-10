@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanContainerTransport", "CleanContainerTransport\CleanContainerTransport.csproj", "{30CCC69F-285C-450B-886A-E02922DF9E2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerTransport", "ContainerTransport\ContainerTransport.csproj", "{568B5722-4366-4276-9E08-DFB13C5DB88D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{6FA8BC96-E256-461B-AF57-3ED9DFBEEE95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30CCC69F-285C-450B-886A-E02922DF9E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30CCC69F-285C-450B-886A-E02922DF9E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30CCC69F-285C-450B-886A-E02922DF9E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30CCC69F-285C-450B-886A-E02922DF9E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{568B5722-4366-4276-9E08-DFB13C5DB88D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568B5722-4366-4276-9E08-DFB13C5DB88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568B5722-4366-4276-9E08-DFB13C5DB88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568B5722-4366-4276-9E08-DFB13C5DB88D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA8BC96-E256-461B-AF57-3ED9DFBEEE95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA8BC96-E256-461B-AF57-3ED9DFBEEE95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA8BC96-E256-461B-AF57-3ED9DFBEEE95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA8BC96-E256-461B-AF57-3ED9DFBEEE95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
